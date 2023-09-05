@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+.bg{
+   height: 837px;
+    width: 100%;
+    
+    
+}
+.bgs{
+    display: grid;
+    grid-template-columns: 100% 100% 100% 100%;
+}
+
+
+
+.car{
+    position: absolute;
+    z-index: 15;
+    top: 619px;
+    height: 100px;
+    width: 300px;
+    left: 200px;
+    
+    animation: slide 10s  ease-in-out forwards ;
+    animation-delay: 5s;
+}
+@keyframes slide {
+    0%{
+        position: absolute;
+        left: 200px;
+    
+    }
+    100%{
+        position: absolute;
+        left: 370%;
+    }
+    
+}
+
+.wheel{
+    height: 50px;
+    
+    z-index: 10;
+    
+left:200px;
+position: absolute;
+bottom: 50px;
+animation:  10s roll ease-in-out forwards;
+animation-delay: 5s;
+left: 235px;
+
+
+
+
+    
+   
+    
+
+}
+@keyframes roll {
+    0%{
+        position: absolute;
+        left: 235px;
+        transform: rotate(0deg);
+    
+    }
+    100%{
+        position: absolute;
+        left: 372.2%;
+        transform: rotate(1300deg);
+    }
+    
+}
+
+.wheel2{
+    height: 50px;
+   
+    z-index: 10;
+    
+left: 405px;
+
+position: absolute;
+bottom: 50px;
+animation:  10s roll2 ease-in-out forwards;
+animation-delay: 5s;
+    
+}
+
+@keyframes roll2 {
+    0%{
+        position: absolute;
+        left: 405px;
+        transform: rotate(0deg);
+    
+    }
+    100%{
+        position: absolute;
+        left: 383%;
+        transform: rotate(1300deg);
+    }
+    
+}
+.home{
+ position: absolute;
+ left: 50px;
+top: 320px;
+z-index: 5;
+height: 400px;
+}
+.home2{
+    position: absolute;
+left: 350%;
+top: 320px;
+z-index: 5;
+height: 400px;
+}
+.man{
+
+    position: absolute;
+    z-index: 50;
+    height: 70px;
+    bottom: 109px;
+    left: 330px;
+    animation: forwards man 10s ease-in-out;
+    animation-delay: 5s;
+}
+
+@keyframes man {
+    0%{
+        position: absolute;
+        left: 330px;
+    }
+    100%{
+        position: absolute;
+        left: 378%;
+    }
+    
+}
+
+    </style>
+</head>
+<body>
+    <div class="bgs">
+    <img src="bg.jpg" alt="" class="bg">
+    <img src="bg.jpg" alt="" class="bg">
+    <img src="bg.jpg" alt="" class="bg">
+    <img src="bg.jpg" alt="" class="bg">
+    </div>
+    <img src="home.jpg" alt="" class="home">
+    <img src="home2.jpg" alt="" class="home2">
+    <img src="car.png" alt="" class="car">
+    <img src="wheel.jpg" alt="" class="wheel">
+    <img src="wheel.jpg" alt="" class="wheel2">
+    <img src="man.jpeg" alt="" class="man">
+    <img src="Character.png" alt="">
+   
+</body>
+</html>
