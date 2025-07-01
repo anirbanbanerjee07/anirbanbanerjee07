@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=25B31E&center=true&vCenter=true&width=320&lines=Full+Stack+Python+Developer;Always+Learning+New+Thing!!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 # 👋 Hi there! I'm Anirban<br><br>I'm a passionate software engineer with an interest in full-stack python development. 🌟 I love creating innovative solutions and exploring new technologies!<br><br>- 🌱 Currently learning: Machine Learning<br>- 💼 Experience in: Python, MongoDB<br><br>Feel free to check out my repositories and let's connect! 🔗<br>
 
