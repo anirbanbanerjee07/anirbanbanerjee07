@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=4000&pause=1000&color=32F129&center=true&vCenter=true&width=327&lines=Full+Stack+Python+Developer;Cyber+Security+Enthusiast;Graphics+Designer)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Anirban Banerjee</h1>
 <h3 align="center">A passionate web application from India</h3>
 
