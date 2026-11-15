@@ -1,114 +1,194 @@
-<img src="https://camo.githubusercontent.com/b9e191e371c9e019950893d68a276e3afe96ec24bd6c5b3b87da35d31ed1de60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3044304430442c35303a4646364130302c3130303a304430443044266865696768743d3238302673656374696f6e3d68656164657226746578743d414e495242414e25323042414e45524a454526666f6e7453697a653d363826666f6e74436f6c6f724646464646462666f6e74416c69676e593d333826646573633d46554c4c2d535441434b253230444556454c4f5045522532302545322538302539342532304a415641253230254333253937253230535052494e47253230424f4f5425323025433325393725323052454143542664657363416c69676e593d35382664657363416c69676e3d3530266465736353697a653d313626616e696d6174696f6e3d66616465496e" width="100%" style="max-width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=25&duration=4000&pause=1000&color=32F129&center=true&vCenter=true&width=329&lines=Full+Stack+Python+Developer;Cyber+Security+Enthusiast;Graphics+Designer)](https://git.io/typing-svg)
+<!-- ================= HERO SECTION ================= -->
 
-<h1 align="center">Hi 👋, I'm Anirban Banerjee</h1>
-<h3 align="center">A passionate web application from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6A00,100:0D0D0D&height=250&section=header&text=ANIRBAN%20BANERJEE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descAlign=50&descSize=17&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/w66rNGVm) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirban-banerjee-b42b9907p/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnirbanBCA)
+<br/>
 
-- 🌱 I’m currently learning **Python, Cyber Security, AI/ML**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=Full-Stack+Python+Developer;Building+Web+Applications;AI%2FML+Enthusiast;Cyber+Security+Explorer;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+</a>
 
-- 🤝 I’m looking for help with **AI/ML**
+<br/>
 
-- 💬 Ask me about **LotL**
+<a href="https://github.com/anirbanbanerjee07">
+<img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=PROFILE+VIEWS&color=FF6A00&style=for-the-badge" />
+</a>
 
-- 📫 How to reach me **banerjeeanirban666@gmail.com**
-
-- 😀 Fun fact **My first "hello world" crashed my laptop.**
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<table border="1" cellpadding="10">
-  <tr>
-    <th>PROGRAMMING LANGUAGE</th>
-    <th>FRONTEND DEVELOPMENT</th>
-    <th>BACKEND DEVELOPMENT</th>
-    <th>AI / ML</th>
-    <th>DATABASE</th>
-    <th>DEVOPS</th>
-    <th>BAAS</th>
-    <th>SOFTWARE</th>
-    <th>GAME ENGINE</th>
-    <th>OTHERS</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a></td>
-    <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a></td>
-    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
-    <td><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a></td>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a></td>
-    <td></td>
-    <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a></td>
-    <td><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a></td>
-    <td><a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a></td>
-    <td></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
-    <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a></td>
-    <td></td>
-    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a></td>
-    <td><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a></td>
-    <td><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a></td>
-    <td></td>
-    <td></td>
-    <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anirbanbanerjee07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anirbanbanerjee07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanbanerjee07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anirbanbanerjee07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- ================= ABOUT ME ================= -->
+
+## 👨‍💻 About Me
+
+Hello! I'm **Anirban Banerjee**, a Computer Applications graduate and passionate developer from India.
+
+I enjoy transforming ideas into practical digital solutions through programming, creativity, and continuous learning.
+
+- 🎓 BCA Graduate from Asansol Engineering College.
+- 💻 Interested in Full-Stack Web Development.
+- 🐍 Working with Python, Django, PHP and JavaScript.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🔐 Interested in Cyber Security and Reverse Engineering.
+- 🏆 Participated in 17+ hackathons and collaborative tech events.
+- 🚀 Always experimenting with new technologies and building projects.
+
+**My mindset:** Learn continuously, build creatively, and solve real-world problems.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anirban-banerjee-b42b9907p/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/AnirbanBCA">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://discord.gg/w66rNGVm">
+<img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:banerjeeanirban666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,html,css"/>
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue"/>
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,php,express"/>
+</p>
+
+### Database & BaaS
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase"/>
+</p>
+
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow"/>
+</p>
+
+### DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,gcp,linux,bash"/>
+</p>
+
+### Design & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,arduino"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Appointment Management System
+
+A web-based appointment booking platform with patient, doctor and admin functionality.
+
+**Tech:** PHP, MySQL, Vue.js
+
+<a href="https://github.com/anirbanbanerjee07/Appointment-Management-System">
+<img src="https://img.shields.io/badge/View%20Project-FF6A00?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🛒 GoCart
+
+A modern e-commerce web application built with a contemporary frontend stack.
+
+**Tech:** Next.js, React, Redux Toolkit, Tailwind CSS
+
+<a href="https://gocart-pearl-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Participated in **17+ Hackathons**.
+- 🏅 First Runner-up in 7 hackathons.
+- 🎯 Finalist in **Smart India Hackathon 2024 & 2025**.
+- 👥 Led and coordinated multiple hackathon teams.
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**.
+- 🤖 Experience in developing innovative software and IoT-based projects.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanbanerjee07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anirbanbanerjee07&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanbanerjee07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Create. Innovate. Repeat."
+
+**Thanks for visiting my profile! Let's connect and build something amazing.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6A00,100:0D0D0D&height=120&section=footer" width="100%"/>
+
+</div>
