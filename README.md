@@ -178,11 +178,14 @@ A modern e-commerce web application built with a contemporary frontend stack.
 
 ---
 
-## 🐍 Contribution Graph
+
+---
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+[![Anirban's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anirbanbanerjee07)
 
 </div>
 
