@@ -41,24 +41,29 @@ I enjoy transforming ideas into practical digital solutions through programming,
 
 ---
 
-## 🌐 Connect With Me
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/anirban-banerjee-b42b9907p/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/AnirbanBCA">
-<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://discord.gg/w66rNGVm">
-<img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="mailto:banerjeeanirban666@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🤝 Let's Connect & Collaborate
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirban-banerjee-b42b9907p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anirbanbanerjee07">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AnirbanBCA">
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:banerjeeanirban666@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to networking, collaboration, and exciting opportunities.</i>
+</p>
 
 ---
 
