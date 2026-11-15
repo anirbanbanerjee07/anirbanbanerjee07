@@ -3,7 +3,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6A00,100:0D0D0D&height=250&section=header&text=ANIRBAN%20BANERJEE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descAlign=50&descSize=17&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:123B68,70:00D4FF,100:080B16&height=280&section=header&text=ANIRBAN%20BANERJEE&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%26%20TECH%20ENTHUSIAST&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn&stroke=00D4FF&strokeWidth=1" width="100%" />
+
+</div>
+
 
 <br/>
 
