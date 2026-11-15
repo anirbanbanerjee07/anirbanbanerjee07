@@ -1,279 +1,199 @@
-
-<!-- ===================================================== -->
-<!--             ANIRBAN BANERJEE | GITHUB PROFILE         -->
-<!--                 BINARY / CYBER THEME                  -->
-<!-- ===================================================== -->
-
-<!-- ================= BINARY HERO ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:241044,70:075985,100:080B16&height=260&section=header&text=01000001%2001001110%2001001001%2001010010%2001000010%2001000001%2001001110%2000100000%2001000010%2001000001%2001001110%2001000101%2001010010%2001001010%2001000101%2001000101&fontSize=12&fontColor=00E5FF&fontAlign=50&fontAlignY=34&desc=ANIRBAN%20BANERJEE%20%7C%20FULL-STACK%20DEVELOPER&descSize=19&descColor=FFFFFF&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Anirban Banerjee binary header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6A00,100:0D0D0D&height=250&section=header&text=ANIRBAN%20BANERJEE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descAlign=50&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=01001000+01100101+01101100+01101100+01101111+00100001;Full-Stack+Python+Developer;Building+Digital+Experiences;AI%2FML+%26+Cyber+Security+Enthusiast;Turning+Ideas+Into+Reality;Code.+Create.+Innovate." alt="Typing animation"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=Full-Stack+Python+Developer;Building+Web+Applications;AI%2FML+Enthusiast;Cyber+Security+Explorer;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+</a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/anirbanbanerjee07?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&logo=github"/>
-
-</div>
-
----
-
-<!-- ================= IDENTITY ================= -->
-
-<div align="center">
-
-# `> WHO_AM_I`
-
-### Anirban Banerjee
-
-**Full-Stack Developer | Python Developer | Technology Explorer**
-
-`01000001 01001110 01001001 01010010 01000010 01000001 01001110`
-
-*Building the future, one line of code at a time.*
+<a href="https://github.com/anirbanbanerjee07">
+<img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=PROFILE+VIEWS&color=FF6A00&style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= ABOUT ME ================= -->
 
-## `01. About Me`
+## 👨‍💻 About Me
 
-```python
-class AnirbanBanerjee:
+Hello! I'm **Anirban Banerjee**, a Computer Applications graduate and passionate developer from India.
 
-    def __init__(self):
-        self.name = "Anirban Banerjee"
-        self.education = "BCA Graduate"
-        self.college = "Asansol Engineering College"
-        self.location = "India"
-
-        self.interests = [
-            "Full-Stack Development",
-            "Artificial Intelligence",
-            "Cyber Security",
-            "Reverse Engineering",
-            "Creative Problem Solving"
-        ]
-
-        self.current_focus = [
-            "Python & Django",
-            "Web Technologies",
-            "AI / ML"
-        ]
-
-    def ambition(self):
-        return "Build meaningful technology and solve real-world problems."
-
-me = AnirbanBanerjee()
-```
+I enjoy transforming ideas into practical digital solutions through programming, creativity, and continuous learning.
 
 - 🎓 BCA Graduate from Asansol Engineering College.
-- 💻 Passionate about developing practical web applications.
-- 🐍 Exploring Python, Django, PHP and modern JavaScript.
-- 🤖 Interested in AI, Machine Learning and automation.
-- 🔐 Exploring Cyber Security and Reverse Engineering.
-- 🏆 17+ hackathon participations and collaborative tech experiences.
-- 🚀 Always learning, experimenting and building.
+- 💻 Interested in Full-Stack Web Development.
+- 🐍 Working with Python, Django, PHP and JavaScript.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🔐 Interested in Cyber Security and Reverse Engineering.
+- 🏆 Participated in 17+ hackathons and collaborative tech events.
+- 🚀 Always experimenting with new technologies and building projects.
+
+**My mindset:** Learn continuously, build creatively, and solve real-world problems.
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## `02. Establish Connection`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anirban-banerjee-b42b9907p/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/anirbanbanerjee07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://x.com/AnirbanBCA">
-<img src="https://img.shields.io/badge/TWITTER_ /_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:banerjeeanirban666@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`NETWORKING` • `COLLABORATION` • `INNOVATION`
-
-</div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🤝 Let's Connect & Collaborate
 
-## `03. Technology Arsenal`
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirban-banerjee-b42b9907p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anirbanbanerjee07">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AnirbanBCA">
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:banerjeeanirban666@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-### ⚡ Programming Languages
+<p align="center">
+  <i>Open to networking, collaboration, and exciting opportunities.</i>
+</p>
 
-<p align="left">
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,html,css"/>
 </p>
 
-### 🎨 Frontend Engineering
-
-<p align="left">
+### Frontend Development
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue"/>
 </p>
 
-### ⚙️ Backend Engineering
-
-<p align="left">
+### Backend Development
+<p>
 <img src="https://skillicons.dev/icons?i=django,nodejs,php,express"/>
 </p>
 
-### 🗄️ Database & Backend Services
-
-<p align="left">
+### Database & BaaS
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase"/>
 </p>
 
-### 🤖 AI / Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch"/>
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow"/>
 </p>
 
-### ☁️ DevOps & Cloud
-
-<p align="left">
+### DevOps & Cloud
+<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,gcp,linux,bash"/>
 </p>
 
-### 🎯 Creative & Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ps,vscode,postman,arduino"/>
+### Design & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,arduino"/>
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
-## `04. Featured Operations`
-
-<div align="center">
-
-<a href="https://github.com/anirbanbanerjee07/Appointment-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anirbanbanerjee07&repo=Appointment-Management-System&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 ### 🏥 Appointment Management System
 
-A web-based appointment booking platform with patient, doctor and administrator functionality.
+A web-based appointment booking platform with patient, doctor and admin functionality.
 
-`PHP` `MySQL` `Vue.js` `REST API`
+**Tech:** PHP, MySQL, Vue.js
 
-### 🛒 GoCart — E-commerce Platform
+<a href="https://github.com/anirbanbanerjee07/Appointment-Management-System">
+<img src="https://img.shields.io/badge/View%20Project-FF6A00?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-A modern e-commerce application built with a contemporary frontend architecture.
+</td>
+<td width="50%">
 
-`Next.js` `React` `Redux Toolkit` `Tailwind CSS`
+### 🛒 GoCart
 
-[<img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"/>](https://gocart-pearl-eight.vercel.app/)
+A modern e-commerce web application built with a contemporary frontend stack.
+
+**Tech:** Next.js, React, Redux Toolkit, Tailwind CSS
+
+<a href="https://gocart-pearl-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Achievements & Certifications
 
-## `05. Achievements & Recognition`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/17%2B-HACKATHONS-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/7-FIRST_RUNNER_UP-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2x-SIH_FINALIST-FF6A00?style=for-the-badge"/>
-
-</div>
-
-- 🏆 Participated in 17+ hackathons.
-- 🥈 First Runner-up in 7 hackathons.
-- 🎯 Finalist in Smart India Hackathon 2024 & 2025.
+- 🥇 Participated in **17+ Hackathons**.
+- 🏅 First Runner-up in 7 hackathons.
+- 🎯 Finalist in **Smart India Hackathon 2024 & 2025**.
 - 👥 Led and coordinated multiple hackathon teams.
-- ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.
-- 💡 Worked on software development and IoT-based innovations.
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**.
+- 🤖 Experience in developing innovative software and IoT-based projects.
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## `06. GitHub Intelligence`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanbanerjee07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanbanerjee07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anirbanbanerjee07&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anirbanbanerjee07&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanbanerjee07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanbanerjee07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-
-## `07. GitHub Achievements`
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-## `08. Contribution Matrix`
+---
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=CODE%20CONTRIBUTION%20MATRIX" width="100%"/>
+[![Anirban's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anirbanbanerjee07)
 
 </div>
 
 ---
 
-<!-- ================= TERMINAL FOOTER ================= -->
-
 <div align="center">
 
-### `> SYSTEM STATUS: ALWAYS LEARNING`
+### 💡 "Code. Create. Innovate. Repeat."
 
-```bash
-$ whoami
-Anirban Banerjee
+**Thanks for visiting my profile! Let's connect and build something amazing.**
 
-$ mission
-Build | Learn | Innovate | Repeat
-
-$ status
-[ ONLINE ] - Ready for new challenges.
-```
-
-**Thanks for exploring my digital space!**
-
-*Let's turn great ideas into great products.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:241044,100:075985&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF6A00,100:0D0D0D&height=120&section=footer" width="100%"/>
 
 </div>
