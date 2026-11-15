@@ -149,42 +149,24 @@ A modern e-commerce web application built with a contemporary frontend stack.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirbanbanerjee07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anirbanbanerjee07&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanbanerjee07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anirbanbanerjee07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anirbanbanerjee07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anirbanbanerjee07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-profile-trophy.vercel.app/?username=anirbanbanerjee07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
-
-</div>
-
----
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anirbanbanerjee07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anirbanbanerjee07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Contribution Activity
-
-<div align="center">
-
-[![Anirban's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirbanbanerjee07&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anirbanbanerjee07)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
